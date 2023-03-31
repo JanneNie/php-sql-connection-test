@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "web-app-database-test-server.mysql.database.azure.com";
 $username = "test";
 $password = "test";
 
