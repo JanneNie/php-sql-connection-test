@@ -4,7 +4,7 @@ $username = "qnlnwbfheg";
 $password = "2B70E8OHL7FIJBM3$";
 
 
-require_secure_transport = on
+/*require_secure_transport = on*/
   
   
 // Create connection
