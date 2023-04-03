@@ -4,14 +4,7 @@ $username = "qnlnwbfheg";
 $password = "2B70E8OHL7FIJBM3$";
 
 
-mysqli_ssl_set(
-    mysqli $mysql,
-    ?string $key,
-    ?string $certificate,
-    ?string $ca_certificate,
-    ?string $ca_path,
-    ?string $cipher_algos
-): bool
+require_secure_transport = on
   
   
 // Create connection
